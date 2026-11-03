@@ -35,7 +35,8 @@ This runs when the user taps the ✕ button. It removes the skill from the list.
 
 ## Screenshot
 
-![alt text](<Screenshot 2026-11-04 011837.png>)
+<img width="1174" height="900" alt="Screenshot 2026-11-04 011837" src="https://github.com/user-attachments/assets/44426be5-21f0-435d-bd25-7d4ed9a71cbf" />
+
 
 ## Sources
 
